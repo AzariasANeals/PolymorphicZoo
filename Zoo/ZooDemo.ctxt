@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ZooDemo
+comment0.text=\r\n\ This\ is\ the\ ZooDemo.\ \r\n\ \r\n\ To\ start\ this\ project\ click\ on\ the\ ZooDemo\ class\ and\ create\ a\ new\ animal\ (Elephant,\ Lion,\ Monkey)\r\n\ \ \ \ and\ give\ it\ a\ name.\ Then\ add\ it\ to\ the\ zoo\ ArrayList\ and\ run\ the\ program.\ It\ will\ then\ return\ the\r\n\ \ \ \ animal\ name\ and\ the\ sound\ associated\ with\ the\ animal\ chosen.\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

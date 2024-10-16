@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Animal
+comment0.text=\r\n\ This\ is\ the\ Animal\ class\ it\ will\ take\ in\ a\ name\ and\ animal\ type\ and\ return\ the\ name\ and\ the\ sound\r\n\ that\ the\ animal\ makes.\r\n
+comment1.params=name
+comment1.target=Animal(java.lang.String)
+comment2.params=
+comment2.target=void\ makeSound()
+comment3.params=times
+comment3.target=void\ makeSound(int)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=java.lang.String\ getOutputSound()
+numComments=6

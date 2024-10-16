@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Elephant
+comment0.text=\r\n\ This\ is\ the\ Elephant\ class\ it\ is\ a\ subclass\ of\ the\ Animal\ class.\r\n\ It\ will\ return\ the\ sound\ that\ an\ elephant\ makes.\r\n
+comment1.params=name
+comment1.target=Elephant(java.lang.String)
+comment2.params=
+comment2.target=void\ makeSound()
+numComments=3
